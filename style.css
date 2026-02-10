@@ -1,0 +1,242 @@
+ <style>
+
+        * {
+
+            margin: 0;
+
+            padding: 0;
+
+            box-sizing: border-box;
+
+            font-family: Arial, sans-serif;
+
+        }
+
+
+
+        body {
+
+            background: #f5f7fa;
+
+            color: #333;
+
+        }
+
+
+        header {
+
+            background: #0b2c4d;
+
+            color: white;
+
+            padding: 15px 50px;
+
+            display: flex;
+
+            justify-content: space-between;
+
+            align-items: center;
+
+        }
+
+
+
+        header h1 {
+
+            font-size: 22px;
+
+        }
+
+
+
+        nav a {
+
+            color: white;
+
+            margin-left: 20px;
+
+            text-decoration: none;
+
+            font-size: 14px;
+
+        }
+
+        .hero {
+
+            background: white;
+
+            display: flex;
+
+            padding: 60px 50px;
+
+            align-items: center;
+
+        }
+
+
+
+        .hero-text {
+
+            width: 50%;
+
+        }
+
+
+
+        .hero-text h2 {
+
+            font-size: 40px;
+
+            margin-bottom: 20px;
+
+        }
+
+
+
+        .hero-text span {
+
+            color: #f4b400;
+
+        }
+
+
+
+        .hero-text p {
+
+            margin-bottom: 25px;
+
+            color: #666;
+
+        }
+
+
+
+        .btn {
+
+            padding: 12px 20px;
+
+            background: #0b2c4d;
+
+            color: white;
+
+            text-decoration: none;
+
+            margin-right: 10px;
+
+            border-radius: 3px;
+
+        }
+
+
+
+        .hero-img {
+
+            width: 50%;
+
+            text-align: right;
+
+        }
+
+
+
+        .hero-img img {
+
+            width: 80%;
+
+        }
+
+
+
+        /* SERVICES */
+
+        .services {
+
+            display: flex;
+
+            justify-content: space-around;
+
+            padding: 40px 50px;
+
+            background: #eef2f6;
+
+        }
+
+
+
+        .service-box {
+
+            background: #0b2c4d;
+
+            color: white;
+
+            padding: 30px;
+
+            width: 30%;
+
+            text-align: center;
+
+        }
+
+
+
+        /* ABOUT */
+
+        .about {
+
+            display: flex;
+
+            padding: 60px 50px;
+
+            background: white;
+
+            align-items: center;
+
+        }
+
+
+
+        .about-text {
+
+            width: 60%;
+
+        }
+
+
+
+        .about-text h3 {
+
+            font-size: 28px;
+
+            margin-bottom: 15px;
+
+        }
+
+
+
+        .about-text p {
+
+            color: #666;
+
+            line-height: 1.6;
+
+        }
+
+
+
+        .about-img {
+
+            width: 40%;
+
+            text-align: right;
+
+        }
+
+
+
+        .about-img img {
+
+            width: 70%;
+
+        }
+
+    </style>
